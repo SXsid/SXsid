@@ -4,16 +4,16 @@
 
 Hi, I'm Sudhanshu Shekhar. Welcome to my GitHub profile!
 
-## Contributions
 
-![Sudhanshu's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=10x-sid&show_icons=true&count_private=false&theme=radical)
-
-## Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
-
-
-
+<div align="center">
+<a href="https://github.com/codingmickey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&theme=dracula" />
+</a>
+<br /><br />
+<a href="https://github.com/codingmickey">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=10x-sid&theme=dracula" />
+</a>
+</div>
 <!--
 **10x-sid/10x-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
