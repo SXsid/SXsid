@@ -6,7 +6,7 @@ Hi, I'm Sudhanshu Shekhar. Welcome to my GitHub profile!
 
 ## Contributions
 
-![Sudhanshu's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=10x-sid&show_icons=true&count_private=true&theme=radical)
+![Sudhanshu's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=10x-sid&show_icons=true&count_private=false&theme=radical)
 
 ## Languages
 
