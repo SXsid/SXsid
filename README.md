@@ -4,20 +4,21 @@
 
 <hr/>
   <h3 align="left">Languages and Tools:</h3>
+  
+  <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 ##
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
 
 
-  <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 <hr/>
 
 <div align="center">
-<a href="https://github.com/codingmickey">
+<a href="https://github.com/10x-sid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&theme=dracula" />
 </a>
 <br /><br />
-<a href="https://github.com/codingmickey">
+<a href="https://github.com/10x-sid">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=10x-sid&theme=dracula" />
 </a>
 </div>
