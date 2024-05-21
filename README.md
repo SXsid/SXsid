@@ -19,7 +19,7 @@
 
 <div align="center">
 <a href="https://github.com/10x-sid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&count_private=true&theme=dracula" />
 </a>
 <br /><br />
 <a href="https://github.com/10x-sid">
