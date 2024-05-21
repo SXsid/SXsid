@@ -3,7 +3,7 @@
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 
-  <h3 align="left">Languages and Tools:</h3>
+
   
   <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 <p align="left"> 
