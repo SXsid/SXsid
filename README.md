@@ -3,10 +3,10 @@
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 <hr/>
-
+  <h3 align="left">Languages and Tools:</h3>
 ##
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
-  <h3 align="left">Languages and Tools:</h3>
+
 
   <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
