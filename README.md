@@ -5,7 +5,7 @@
 
 
   
-  <img alt="typing" align="right" height="100" width="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+  <img alt="typing" align="right" height="200" width="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical"/>
 </p>
