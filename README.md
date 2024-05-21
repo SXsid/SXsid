@@ -4,7 +4,7 @@
 
 <hr/>
 
-##languages
+##
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
 
 <hr/>
