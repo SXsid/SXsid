@@ -7,6 +7,8 @@
 ##
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
 
+  <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+
 <hr/>
 
 <div align="center">
