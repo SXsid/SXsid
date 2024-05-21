@@ -1,9 +1,11 @@
 
+<h1 align="center">Hi 👋, I'm Sudhanshu</h1>
+<h3 align="center">Am trying to be a full stack developer from India..</h3>
 
-# Sudhanshu Shekhar
+<hr/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
 
-Hi, I'm Sudhanshu Shekhar. Welcome to my GitHub profile!
-
+<hr/>
 
 <div align="center">
 <a href="https://github.com/codingmickey">
