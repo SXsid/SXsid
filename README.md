@@ -3,7 +3,9 @@
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 <hr/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
+
+##languages
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical)
 
 <hr/>
 
