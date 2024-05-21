@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
-<hr/>
+
   <h3 align="left">Languages and Tools:</h3>
   
   <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
-<!-- <p align="left"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10x-sid&layout=compact&theme=radical"/>
-</p>-->
+</p>
 
 
 <hr/>
