@@ -24,7 +24,7 @@
 <br /><br />-->
 <a href="https://github.com/SXsid">
   
-  <a href="https://github.com/SXsid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical"/></a>
+  <a style="w:100%" href="https://github.com/SXsid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical"/></a>
 </a>
 </div>
 <!--
