@@ -7,7 +7,7 @@
   
   <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 <p align="left" > 
-  <a href="https://github.com/SXsid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical"/></a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
 </p>
 
 
@@ -23,7 +23,8 @@
 </a>
 <br /><br />-->
 <a href="https://github.com/SXsid">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
+  
+  <a href="https://github.com/SXsid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical"/></a>
 </a>
 </div>
 <!--
