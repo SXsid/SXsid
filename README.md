@@ -22,9 +22,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&count_private=true&theme=dracula" />
 </a>
 <br /><br />-->
-<div style="width: 100%;">
+<div style="width: 100%; height:50%">
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 100%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 100%; height:50%;"/>
   </a>
 </div>
 
