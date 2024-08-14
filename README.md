@@ -22,10 +22,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&count_private=true&theme=dracula" />
 </a>
 <br /><br />-->
-<a href="https://github.com/SXsid">
-  
-  <a style="w:100%" href="https://github.com/SXsid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical"/></a>
-</a>
+<div style="width: 100%;">
+  <a href="https://github.com/SXsid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 100%;"/>
+  </a>
+</div>
+
 </div>
 <!--
 **10x-sid/10x-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
