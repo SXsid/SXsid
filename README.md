@@ -24,9 +24,10 @@
 <br /><br />-->
 <div style="width: 100%;">
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 100%; height: auto;"/>
   </a>
 </div>
+
 
 </div>
 <!--
