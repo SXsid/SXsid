@@ -7,7 +7,7 @@
   
   <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 <p align="left" > 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
 </p>
 
 
@@ -22,9 +22,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&count_private=true&theme=dracula" />
 </a>
 <br /><br />-->
-<div style="width: 100%;">
+<div style="width: 100%; height:50%">
   <a href="https://github.com/SXsid">
-    <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 600px; height:200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&theme=radical" style="width: 400px; height:200px;"/>
   </a>
 </div>
 
