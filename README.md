@@ -7,9 +7,9 @@
   
   <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
-  <a href="https://github.com/SXsid">
-    < <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
-  </a>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
+  
   
 </p>
 
