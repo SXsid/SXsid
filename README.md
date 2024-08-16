@@ -3,10 +3,10 @@
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 
-
+<p> 
   
   <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
-<p align="left" > 
+
   <a href="https://github.com/SXsid">
     < <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
   </a>
