@@ -31,7 +31,7 @@
   </a>
 </div>
 
-
+[![](https://visitcount.itsvg.in/api?id=SXsid&icon=2&color=0)](https://visitcount.itsvg.in)
 </div>
 <!--
 **10x-sid/10x-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
