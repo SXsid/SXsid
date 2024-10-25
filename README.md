@@ -27,7 +27,7 @@
 <br /><br />-->
 <div style="width: 100%; height:50%">
   <a href="https://github.com/SXsid">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=600%&theme=dracula" alt="SXsid" /></p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=900%&theme=dracula" alt="SXsid" /></p>
   </a>
 </div>
 
