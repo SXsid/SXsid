@@ -69,7 +69,7 @@
 <!-- GitHub Stats and GIF Section -->
 <div align="center" style="width: 60%; margin: auto;">
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&theme=dracula" alt="SXsid" style="width: 100%; height: 250px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=700&theme=dracula" alt="SXsid" style="width: 100%; height: 150px;" />
   </a>
 </div>
 
