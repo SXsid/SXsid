@@ -8,14 +8,14 @@
 
 <hr/>
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/SXsid">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400&theme=dracula" alt="SXsid" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400&theme=dracula" alt="SXsid" />
   </a>
-  <img alt="GIF" height="140" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" style="vertical-align: middle; margin-left: 10px;">
+  <img alt="GIF" height="140" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" />
 </div>
 
-<p align="center">
+<p >
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=SXsid&icon=2&color=0" />
   </a>
