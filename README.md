@@ -1,40 +1,22 @@
-
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
-
 <p> 
-  
   <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
-
-  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
-  
-  
 </p>
-
-
-
-
-
 
 <hr/>
 
-<!--<div align="center">
-<a href="https://github.com/10x-sid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=10x-sid&count_private=true&theme=dracula" />
-</a>
-<br /><br />-->
-<div>
+<div align="center">
   <a href="https://github.com/SXsid">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400%&theme=dracula" alt="SXsid" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400&theme=dracula" alt="SXsid" />
   </a>
- 
+  <img alt="GIF" height="140" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" style="vertical-align: middle; margin-left: 10px;">
 </div>
- <img alt="GIF" align="right" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
-[![](https://visitcount.itsvg.in/api?id=SXsid&icon=2&color=0)](https://visitcount.itsvg.in)
-</div>
-<!--
-**10x-sid/10x-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SXsid&icon=2&color=0" />
+  </a>
+</p>
