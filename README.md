@@ -67,11 +67,10 @@
 </p>
 
 <!-- GitHub Stats and GIF Section -->
-<div>
+<div align="center" style="width: 60%; margin: auto;">
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=700&theme=dracula" alt="SXsid" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&theme=dracula" alt="SXsid" style="width: 100%; height: 250px;" />
   </a>
-<!--   <img alt="GIF" height="160" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" style="width: 45%;"/> -->
 </div>
 
 <!-- View Count Section -->
