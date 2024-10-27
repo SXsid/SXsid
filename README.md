@@ -8,11 +8,11 @@
 
 <hr/>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap:20;">
   <a href="https://github.com/SXsid">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400&theme=dracula" alt="SXsid" />
   </a>
-  <img alt="GIF" height="140" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" />
+  <img alt="GIF" height="160" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif" />
 </div>
 
 <p >
