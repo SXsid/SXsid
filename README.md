@@ -56,23 +56,18 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vuejs"/>
-  </a>
+ 
 </p>
 </p>
 
 <!-- GitHub Stats and GIF Section -->
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; gap: 20px;">
+<div>
   <a href="https://github.com/SXsid">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=700&theme=dracula" alt="SXsid" style="width: 45%;" />
   </a>
@@ -80,7 +75,7 @@
 </div>
 
 <!-- View Count Section -->
-<p align="center">
+<p >
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=SXsid&icon=2&color=0" />
   </a>
