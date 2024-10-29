@@ -5,7 +5,11 @@
   <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
 </p>
-
+<div align="center" style="width: 60%; margin: auto;">
+  <a href="https://github.com/SXsid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=700&theme=dracula" alt="SXsid" style="width: 100%; height: 150px;" />
+  </a>
+</div>
 <hr/>
 
 <!-- Tech Stack Section -->
@@ -67,11 +71,7 @@
 </p>
 
 <!-- GitHub Stats and GIF Section -->
-<div align="center" style="width: 60%; margin: auto;">
-  <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=700&theme=dracula" alt="SXsid" style="width: 100%; height: 150px;" />
-  </a>
-</div>
+
 
 <!-- View Count Section -->
 <p >
