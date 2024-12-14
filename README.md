@@ -1,81 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu</h1>
-<h3 align="center">Am trying to be a full stack developer from India..</h3>
+<h1 align="center">Hi 👋, I&#39;m Sudhanshu</h1>
 
-<p> 
-  <img alt="typing" align="right" height="180" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SXsid&theme=dracula" />
-</p>
-<div align="center" style="width: 60%; margin: auto;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=700&theme=dracula" alt="SXsid" style="width: 100%; height: 150px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SXsid&theme=tokyonight&hide_border=true&card_width=400&card_height=150&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/SXsid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
-<hr/>
 
-<!-- Tech Stack Section -->
-<h2 align="center">💻 Tech Stack:</h2>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bash-%233E7C17.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-%233C873A.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-%233C87C0.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  </a>
- 
-</p>
-</p>
+<br />
 
-<!-- GitHub Stats and GIF Section -->
+### 👋🏻 About me
+Full-stack dev with a love for low-level tech.
 
+* **I Speak:** English, Hindi, TypeScript, JavaScript, and Python.
+* **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, and Startups.
+* **Let&#39;s bond over:** 90&#39;s Music, Philosophy, Human Psychology, Filmmaking.
+* **More about my work:** [Sudhanshu&#39;s Resume](https://drive.google.com/file/d/1d650tN01xjqs-fYfZVbJdM8JZWVJybtu/view)
 
-<!-- View Count Section -->
-<p >
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SXsid&icon=2&color=0" />
-  </a>
-</p>
+#### 💻 Work Experience
+* Frontend Developer @Acegrade (Sept 2024 - Present)
+
+#### 🛠️ Relevant Projects
+* [Article Crafter](https://article-crafter.vercel.app/) (Nov 2024 - Dec 2024) - A React-based article creation and publishing platform.
+* [MoneyBuddy](https://moneybuddyx.vercel.app/graph) (June 2024 - Aug 2024) - A full-stack wallet app built with Next.js and PostgreSQL for secure transactions and graphical history.
+* [Online Pal](https://onlinepal.vercel.app/) (Dec 2024 - Sep 2024) - A real-time global chat application using WebSocket.
+
+#### 👀 Where to find me?
+* [Twitter](https://x.com/noobtwts) - I&#39;m most active here in DMs and sharing what I am learning on a daily basis.
+* [Email](mailto:contact.sidshekhar@gmail.com) - For detailed queries, collaboration requests, or opportunities.
+* [Personal Blog](https://dev.to/sid04) - Blogging if it&#39;s worth sharing.
