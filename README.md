@@ -15,7 +15,7 @@
 Full-stack dev with a love for low-level tech.
 
 * **I Speak:** English, Hindi, TypeScript, JavaScript, and Python.
-* **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, and Startups.
+* **Talk to me about:** ReactJS, NodeJS, JS Frameworks, Full-Stack Software Development, Product Development, and Startups.
 * **Let&#39;s bond over:** 90&#39;s Music, Philosophy, Human Psychology, Filmmaking.
 * **More about my work:** [Sudhanshu&#39;s Resume](https://drive.google.com/file/d/1d650tN01xjqs-fYfZVbJdM8JZWVJybtu/view)
 
