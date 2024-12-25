@@ -5,7 +5,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SXsid&theme=tokyonight&hide_border=true&card_width=400&card_height=150&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=20&card_width=400&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=6&card_width=400&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
@@ -14,10 +14,10 @@
 ### 👋🏻 About me
 Full-stack dev with a love for low-level tech.
 
-* **I Speak:** English, Hindi, TypeScript, JavaScript, and Python.
+* **I Speak:** English, Hindi, TypeScript, JavaScript, and c++.
 * **Talk to me about:** ReactJS, NodeJS, JS Frameworks, Full-Stack Software Development, Product Development, and Startups.
 * **Let&#39;s bond over:** 90&#39;s Music, Philosophy, Human Psychology, Filmmaking.
-* **More about my work:** [Sudhanshu&#39;s Resume](https://drive.google.com/file/d/1d650tN01xjqs-fYfZVbJdM8JZWVJybtu/view)
+* **More about my work:** [Sudhanshu&#39;s Resume](https://drive.google.com/file/d/17YVTS0Z2LATFaGXdSBbHV-280d1kXKfP/view)
 
 #### 💻 Work Experience
 * Frontend Developer @Acegrade (Sept 2024 - Present)
