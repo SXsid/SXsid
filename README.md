@@ -5,7 +5,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SXsid&theme=tokyonight&hide_border=true&card_width=400&card_height=150&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/SXsid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=6&card_width=400&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXsid&layout=compact&langs_count=8&card_width=400&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
