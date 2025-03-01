@@ -17,17 +17,14 @@ Full-stack dev with a love for low-level tech.
 * **I Speak:** English, Hindi, TypeScript, JavaScript, and c++.
 * **Talk to me about:** ReactJS, NodeJS, JS Frameworks, Full-Stack Software Development, Product Development, and Startups.
 * **Let&#39;s bond over:** 90&#39;s Music, Philosophy, Human Psychology, Filmmaking.
-* **More about my work:** [Sudhanshu&#39;s Resume](https://drive.google.com/file/d/17YVTS0Z2LATFaGXdSBbHV-280d1kXKfP/view)
+* **More about my work:** [Sudhanshu&#39;s Resume](https://drive.google.com/file/d/1OWvKVI6E7_JO1Wcwcc4BNuTOIedJthGb/view?usp=sharing)
 
 #### 💻 Work Experience
-* Frontend Developer @Acegrade (Sept 2024 - Present)
+* Backend Developer @LibraryMitra (Feb 2025 - present)
+* Frontend intern @Acegrade (Sept 2024 - Dec 2024)
 
 #### 🛠️ Relevant Projects
-* [Article Crafter](https://article-crafter.vercel.app/) (Nov 2024 - Dec 2024) - A React-based article creation and publishing platform.
 * [MoneyBuddy](https://moneybuddyx.vercel.app/graph) (June 2024 - Aug 2024) - A full-stack wallet app built with Next.js and PostgreSQL for secure transactions and graphical history.
 * [Online Pal](https://onlinepal.vercel.app/) (Dec 2024 - Sep 2024) - A real-time global chat application using WebSocket.
+* [Article Crafter](https://article-crafter.vercel.app/) (Nov 2024 - Dec 2024) - A React-based article creation and publishing platform.
 
-#### 👀 Where to find me?
-* [Twitter](https://x.com/noobtwts) - I&#39;m most active here in DMs and sharing what I am learning on a daily basis.
-* [Email](mailto:contact.sidshekhar@gmail.com) - For detailed queries, collaboration requests, or opportunities.
-* [Personal Blog](https://dev.to/sid04) - Blogging if it&#39;s worth sharing.
