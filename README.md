@@ -13,36 +13,8 @@
   </a>
 </div>
 
----
-
-### What I've built
-
-| Project | What it is | Why it matters |
-|--------|------------|----------------|
-| [KitsuDB](https://github.com/SXsid/KitsuDB) | Redis-compatible DB in Go | Built the RESP protocol, persistence, and data structures from scratch |
-| [Rootless-Raft](https://github.com/SXsid/Rootless-Raft) | Docker-like container runtime | Namespaces, cgroups, layered FS — no Docker, just Linux |
-| [glsp](https://github.com/SXsid/glsp) | LSP implementation in Go | How editors actually talk to language servers |
-| [gomon](https://github.com/SXsid/gomon) | File watcher / nodemon in Go | Built because nodemon felt heavy |
-
-
 
 ---
-### OSS Contributions
-<!-- This can be a static table you update, or auto-fetched via GitHub Actions -->
-| Repo | PR | Status |
-|------|----|--------|
-| ||  |
-
----
-
-### What I care about
-- Distributed systems & databases internals  
-- Backend infra and developer tooling  
-- Go, Linux, systems that are fast and correct  
-
----
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shekharsid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/shekharTwts"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
