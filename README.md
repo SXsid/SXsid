@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/fY629byx/back.jpg"/>
+![banner](./back.jpg)
 
 <samp>
 
