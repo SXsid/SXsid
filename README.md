@@ -9,6 +9,7 @@ $ echo $FOCUS
 $ ./contact
 
 <a href="https://shekharx.in">website</a> |
+<a href="https://shekharx.in/notes">Posts</a> |
 <a href="https://x.com/shekharTwts">Me</a> |
 <a href="mailto:contact.sidshekhar@gmail.com">email</a>
 
